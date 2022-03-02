@@ -73,7 +73,7 @@ namespace Arithmetic_Game
             {
                 Console.WriteLine("输入有误，默认为不允许负数。");
             }
-            int totalCount = 5;
+            int totalCount = 4;
             Console.WriteLine("请输入本次游戏的题量。");
             try
             {
